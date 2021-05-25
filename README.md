@@ -1,5 +1,5 @@
 # BTC-Privatekey-generator-with-own-HEX-range
-This python scrypt is generating BTC private keys and is checking them on blockstream API. You can set your own HEX range for Private Keys to be generated. I found this api can handle about 2-3 windows opened at same time more than 3 gets sometimes lagged or blocked by API for few minutes.
+This python scrypt is generating BTC private keys and is checking them on blockstream API. You can set your own HEX range for Private Keys to be generated. I found this api can handle about 2-3 windows opened at same time more than 3 gets sometimes lagged or blocked by API for few minutes. This btc private keys generator is inspirated by one more here on github but this one has added HEX range function.
 If you wish to support this project you can do it by:
 
 BTC:bc1ql0a25wd5lh50f85eddzzms3spdw3stm9p257rv
