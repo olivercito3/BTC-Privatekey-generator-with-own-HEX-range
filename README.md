@@ -34,5 +34,5 @@ Default HEX range is set for puzzle #64, If you wish to set own range follow thi
 
 4, HEX range is in Decimal numbers so to get your own range, use some convertor and convert your HEX number and put it to decimal 
 
-5, after your numbers are converted put them instead of numbers in step 3, <strong>IMPORTANT</strong> in second number on left you need to left that `+1` and thats all just save the file and continue by <strong> Instructions </strong> upper in text
+5, after your numbers are converted put them instead of numbers in step 3, <strong>IMPORTANT</strong> in second number on right you need to leave that `+1` how is it and thats all just save the file and continue by <strong> Instructions </strong> upper in text
 
