@@ -19,16 +19,16 @@ Only thing you gonna need is <strong>Python</strong>
 
 2.you need to install few dependecies : `pip install base58 hashlib requests ecdsa`
 
-3.go to folder `cd PKgen_HEXrange`
+3.go to folder `cd PKgen_HEXrange-main`
 
-4.last step run it `python PKgen_HEXrange`
+4.last step run it `python start.py`
 
 # Own HEX Range
 Default HEX range is set for puzzle #64, If you wish to set own range follow this steps: 
 
-1, open folder `PKgen_HEXrange`
+1, open folder `PKgen_HEXrange-main`
 
-2, right click on `PKgen_HEXrange.py` and open with some editor: notepad,notepad++,Atom ...
+2, right click on `start.py` and open with some editor: notepad,notepad++,Atom ...
 
 3, scroll down and find line `ran = r.randrange(415051741658795330514, 830103483316929822451+1)`
 
